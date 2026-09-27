@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <!-- Set the StartupObject to specify which Main method to use -->
+    <!-- Uncomment one of the following lines as needed: -->
+    <StartupObject>MultipleMainDemo.FirstMain</StartupObject>
+    <!-- <StartupObject>MultipleMainDemo.SecondMain</StartupObject> -->
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>DelegatesDemo</RootNamespace>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <!-- Change to DelegatesDemo.Program to run delegates demo -->
+    <StartupObject>ExpressionTreesDemo.Program</StartupObject>
+  </PropertyGroup>
+
+</Project>

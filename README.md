@@ -1,6 +1,6 @@
 # DotNet Basics — Interview Revision
 
-Quick-revision notes for C# and .NET interviews. Each topic is a markdown guide you can read directly on GitHub.
+Quick-revision notes for C# and .NET interviews. Each topic is a markdown guide you can read directly on GitHub. The `.cs` projects beside those notes are the runnable references.
 
 ## OOP
 

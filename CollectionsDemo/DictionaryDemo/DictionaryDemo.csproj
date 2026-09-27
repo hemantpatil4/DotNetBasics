@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>CollectionsDemo.DictionaryDemo</RootNamespace>
+    <!-- Specify which class has the Main method to run -->
+    <StartupObject>DictionaryTestInputs</StartupObject>
+  </PropertyGroup>
+
+  <!-- Exclude nested Practice project from this build -->
+  <ItemGroup>
+    <Compile Remove="Practice\**" />
+  </ItemGroup>
+
+</Project>
