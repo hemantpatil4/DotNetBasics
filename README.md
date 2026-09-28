@@ -39,6 +39,11 @@ Quick-revision notes for C# and .NET interviews. Each topic is a markdown guide 
 - [Race Conditions](MultithreadingDemo/RaceConditionDemo.md)
 - [Thread-Safe FX Rate Streaming](MultithreadingDemo/ThreadSafeFXRateStreaming.md)
 
+## How a Web API is built and how it runs
+
+- [Project, assembly, and publish output](ProjectAndPublish/AssemblyAndPublishOutput.md)
+- [Host, runtime, Kestrel, and the container](HostRuntime/HowTheHostRunsYourApi.md)
+
 ## Entity Framework Core
 
 - [EF Core Overview](EFCoreDemo/EFCoreOverview.md)
